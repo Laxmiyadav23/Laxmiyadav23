@@ -1,6 +1,6 @@
 Hi, I'm Laxmi Yadav
 
-🎓MCA Student |  Web Development Enthusiast | Cloud Computing Learner | Cyber Security Learner
+MCA Student |  Web Development Enthusiast | Cloud Computing Learner | Cyber Security Learner
 
 📍 Nagpur, Maharashtra, India
 
