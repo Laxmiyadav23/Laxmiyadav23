@@ -8,7 +8,7 @@ MCA Student |  Web Development Enthusiast | Cloud Computing Learner | Cyber Secu
 
 About Me
 
-I am currently pursuing a Master of Computer Applications (MCA) and have completed my Bachelor of Computer Applications (BCA). I enjoy learning new technologies and building real-world projects. My interests include Web Development, Cloud Computing, and Cyber Security.
+I am currently pursuing a Master of Computer Applications (MCA) and i enjoy learning new technologies and building real-world projects. My interests include Web Development, Cloud Computing, and Cyber Security.
 
 ---
 
