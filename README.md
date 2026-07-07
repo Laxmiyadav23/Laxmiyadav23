@@ -26,7 +26,7 @@ Web Technologies
 - GitHub
 - VS Code
 
-- Conceptual knowledge
+ Conceptual knowledge
 - operating System
 - Database Management System
 - Object oriented programming
