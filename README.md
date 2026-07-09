@@ -1,4 +1,4 @@
-hello! My Name is Laxmi Yadav
+Hi there! I'm Laxmi Yadav
 
 MCA Student |  Web Development Enthusiast | Cloud Computing Learner | Cyber Security Learner
 
@@ -7,9 +7,10 @@ MCA Student |  Web Development Enthusiast | Cloud Computing Learner | Cyber Secu
 ---
 
 About Me
-Hi, I'm Laxmi Yadav 👋
+
 
 I'm an MCA student with a foundation in software development and data analytics. I enjoy building practical applications that solve real-world problems while continuously strengthening my understanding of programming, databases, and analytical thinking.
+
 My GitHub is a collection of academic projects, personal experiments, and hands-on work that reflects my learning journey and approach to software development.
 ---
 
