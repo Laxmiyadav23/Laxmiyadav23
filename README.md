@@ -6,16 +6,15 @@ MCA Student |  Web Development Enthusiast | Cloud Computing Learner | Cyber Secu
 
 ---
 
-About Me
-
+##About Me
 
 I'm an MCA student with a foundation in software development and data analytics. I enjoy building practical applications that solve real-world problems while continuously strengthening my understanding of programming, databases, and analytical thinking.
 
-
 My GitHub is a collection of academic projects, personal experiments, and hands-on work that reflects my learning journey and approach to software development.
+
 ---
 
-Skills
+##Skills
 
 Programming Languages
 - C, C++
@@ -41,7 +40,7 @@ Web Technologies
 
 ---
 
-📂 Projects
+##📂 Projects
 
 🔹 Responsive Calculator
 - Built using HTML, CSS and JavaScript
@@ -53,7 +52,7 @@ Web Technologies
 
 ---
 
-📜 Certifications
+##📜 Certifications
 
 - Cloud Computing Fundamentals
 - AWS Generative AI
@@ -62,13 +61,13 @@ Web Technologies
 
 ---
 
-🏆 Achievement
+##🏆 Achievement
 
 🥉 Secured **3rd Rank** in Bachelor of Computer Applications (BCA) with **81.03%**.
 
 ---
 
-📫 Connect with Me
+##📫 Connect with Me
 
 📧 Email: laxmiyadav9404@gmail.com
 
