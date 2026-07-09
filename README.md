@@ -1,4 +1,5 @@
 hello! My Name is Laxmi Yadav
+
 MCA Student |  Web Development Enthusiast | Cloud Computing Learner | Cyber Security Learner
 
 📍 Nagpur, Maharashtra, India
@@ -7,8 +8,11 @@ MCA Student |  Web Development Enthusiast | Cloud Computing Learner | Cyber Secu
 
 About Me
 
-I am currently pursuing a Master of Computer Applications (MCA) and i enjoy learning new technologies and building real-world projects. My interests include Web Development, Cloud Computing, and Cyber Security.
+Hi, I'm Laxmi Yadav 👋
 
+I'm an MCA student with a foundation in software development and data analytics. I enjoy building practical applications that solve real-world problems while continuously strengthening my understanding of programming, databases, and analytical thinking.
+
+My GitHub is a collection of academic projects, personal experiments, and hands-on work that reflects my learning journey and approach to software development.
 ---
 
 Skills
@@ -25,6 +29,8 @@ Web Technologies
  Tools
 - GitHub
 - VS Code
+- jupyter notebook
+- google collab
 
  Conceptual knowledge
 - operating System
